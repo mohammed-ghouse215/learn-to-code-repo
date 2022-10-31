@@ -1,3 +1,3 @@
 # Arrays
 
-Questions on Arrays
+Questions on one dimensional arrays
