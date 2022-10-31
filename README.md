@@ -1,5 +1,2 @@
 # Arrays
-
-Questions on one dimensional arrays
-here copy all the questions
-and verifygi
+Arrays contains list of elements of same data type
